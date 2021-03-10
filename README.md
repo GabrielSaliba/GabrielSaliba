@@ -4,8 +4,8 @@ My name is Gabriel Saliba, I'm a Software Developer 💻 from Brazil 🇧🇷.
 I am currently studying Information Systems since 2018 🎓.
 My passion is development, problem solving, learn new things every day and trying my best to be always thinking outside the box. 💡
 
-**"Don't compare yourself with anyone in this world...**
-**if you do so, you're insulting yourself."**
+**"Don't compare yourself with anyone in this world...**<br>
+**if you do so, you're insulting yourself."**<br>
 ~ Bill Gates
 
 - ✏️ Student at PUC Minas.
@@ -16,10 +16,9 @@ My passion is development, problem solving, learn new things every day and tryin
 
 ## Stats 
 
- <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaliba&langs_count=6&theme=radical&layout=compact"/> 
- <img width="470px" height="140px" src="https://github-readme-stats.vercel.app/api?username=GabrielSaliba&hide=issues,contribs&count_private=true&show_icons=true&theme=radical&custom_title=My Github Stats"/>
-
-
+ <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaliba&langs_count=6&theme=radical&layout=compact"/> 
+ <img width="470px" src="https://github-readme-stats.vercel.app/api?username=GabrielSaliba&hide=issues,contribs&count_private=true&show_icons=true&theme=radical&custom_title=My Github Stats"/>
+ <img width="470px" src="https://github-readme-stats.vercel.app/api/wakatime?username=GabrielSaliba&theme=radical"/> 
 
  
 ## *Reach me out*
