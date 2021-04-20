@@ -2,7 +2,7 @@
 
 My name is Gabriel Saliba, I'm a Software Developer 💻 from Brazil 🇧🇷. <br>
 I am currently studying Information Systems since 2018 🎓.<br>
-My passion is development, problem solving, learning new things every day and trying my best to keep thinking outside the box. 💡<br>
+My passion is development, problem solving, learn new things everyday and trying my best to keep thinking outside the box. 💡<br>
 
 **"Don't compare yourself with anyone in this world...**<br>
 **If you do so, you're insulting yourself."**<br>
