@@ -2,17 +2,17 @@
 
 My name is Gabriel Saliba, I'm a Software Developer 💻 from Brazil 🇧🇷. <br>
 I am currently studying Information Systems since 2018 🎓.<br>
-My passion is development, problem solving, learn new things every day and trying my best to be always thinking outside the box. 💡<br>
+My passion is development, problem solving, learning new things every day and trying my best to keep thinking outside the box. 💡<br>
 
 **"Don't compare yourself with anyone in this world...**<br>
-**if you do so, you're insulting yourself."**<br>
+**If you do so, you're insulting yourself."**<br>
 ~ Bill Gates
 
 - ✏️ Student at PUC Minas.
 -  🎂 22 years old.
--  📍 From Betim/MG
-- 🧪 Always open to new challenges and oportunities
-- 🚀 Working hard to be a Full Stack Developer
+-  📍 From Betim/MG.
+- 🧪 Always open to new challenges and opportunities.
+- 🚀 Working hard to be a Full Stack Developer.
 
 ## Stats 
 
