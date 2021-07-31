@@ -16,7 +16,7 @@ My passion is development, problem solving, learn new things everyday and trying
 
 ## Stats 
 <p align='center'>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielsaliba&show_icons=true&count_private=true&theme=radical" width="350"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielsaliba&show_icons=true&count_private=true&theme=radical&custom_title=My Github Stats" width="350"></a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsaliba&layout=compact&theme=radical" width="293"></a>
 </p>
 
