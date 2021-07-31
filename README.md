@@ -20,6 +20,9 @@ My passion is development, problem solving, learn new things everyday and trying
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsaliba&layout=compact&theme=radical" width="293"></a>
 </p>
 
+## 
+![Snake animation](https://github.com/gabrielsaliba/gabrielsaliba/blob/output/github-contribution-grid-snake.svg)
+
  
 ## *Reach me out*
 
