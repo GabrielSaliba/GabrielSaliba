@@ -15,9 +15,10 @@ My passion is development, problem solving, learn new things everyday and trying
 - 🚀 Working hard to be a Full Stack Developer.
 
 ## Stats 
-
- <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaliba&langs_count=6&theme=radical&layout=compact"/> 
- <img width="470px" src="https://github-readme-stats.vercel.app/api?username=GabrielSaliba&hide=issues,contribs&count_private=true&show_icons=true&theme=radical&custom_title=My Github Stats"/>
+<p align='center'>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielsaliba&show_icons=true&count_private=true&theme=radical" width="350"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsaliba&layout=compact&theme=radical" width="293"></a>
+</p>
 
  
 ## *Reach me out*
