@@ -9,7 +9,7 @@ My passion is development, problem solving, learn new things everyday and trying
 ~ Bill Gates
 
 - ✏️ Student at PUC Minas.
--  🎂 22 years old.
+-  🎂 23 years old.
 -  📍 From Betim/MG.
 - 🧪 Always open to new challenges and opportunities.
 - 🚀 Working hard to be a Full Stack Developer.
