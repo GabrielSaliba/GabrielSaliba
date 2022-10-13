@@ -1,4 +1,4 @@
-# Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
+# Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=35>
 
 My name is Gabriel Saliba, I'm a Software Developer 💻 from Brazil 🇧🇷. <br>
 I am currently studying Information Systems since 2018 🎓.<br>
