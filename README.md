@@ -1,7 +1,7 @@
 # Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=35>
 
 My name is Gabriel Saliba, I'm a Software Developer 💻 from Brazil 🇧🇷. <br>
-I am graduated at Information Systems since 2018 🎓.<br>
+I am graduated at Information Systems since 2022 🎓.<br>
 Working as Software Engineer I at John Deere Brasil 🚜. <br>
 My passion is development, problem solving, learn new things everyday and trying my best to keep thinking outside the box. 💡<br>
 
