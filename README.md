@@ -27,19 +27,10 @@
 <br>
 <br>
 
-<div style="width:250px">
- <table>
-   <tr>
-     <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaliba&hide=html&hide_border=true&layout=compact&langs_count=8&theme=transparent">
-     </td>
-     <td>
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielSaliba&theme=transparent&hide_border=true">
-     </td>
-   </tr>
- </table>
- </div>
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaliba&hide=html&layout=compact&langs_count=8&card_width=500&theme=transparent">
+
+
 
 <br>
 <br>
