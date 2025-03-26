@@ -35,7 +35,7 @@
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,next,nest,nodejs,py,java,spring,cs,unity,dotnet,docker,aws,github,git,mysql,mongodb,postgres,vscode,idea,pycharm,webstorm,discord,windows,linux,bash,obsidian&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,next,nest,nodejs,py,java,spring,cs,unity,dotnet,docker,aws,github,git,mysql,mongodb,postgres,vscode,idea,pycharm,discord,windows,linux,bash,obsidian&perline=14)](https://skillicons.dev)
 
  
 ## *Reach me out*
