@@ -8,7 +8,7 @@
 
 <div>
 
-<img align="right" height="500px" width="15%" src="https://i.imgur.com/k0SslEs.gif"/>
+<img align="right" height="500px" width="20%" src="https://i.imgur.com/k0SslEs.gif"/>
 
 💻 I'm a Fullstack Developer with a bachelor's degree in Information Systems <br>
 🌱 Passionate about technology and software development, problem solving, <br> learning new things every day and trying my best to keep thinking outside the box. 💡<br>
@@ -27,17 +27,16 @@
 <br>
 <br>
 
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaliba&hide=html&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielSaliba&theme=tokyonight&hide_border=true" alt="Repos Per Language">
-    </td>
-  </tr>
-</table>
+ <table>
+   <tr>
+     <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaliba&hide=html&hide_border=true&layout=compact&langs_count=8&theme=transparent" alt="Top Languages">
+     </td>
+     <td>
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielSaliba&theme=transparent&hide_border=true" alt="Repos Per Language">
+     </td>
+   </tr>
+ </table>
 </div>
 
 <br>
