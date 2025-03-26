@@ -27,16 +27,18 @@
 <br>
 <br>
 
+<div style="width:250px">
  <table>
    <tr>
      <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaliba&hide=html&hide_border=true&layout=compact&langs_count=8&theme=transparent" alt="Top Languages">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaliba&hide=html&hide_border=true&layout=compact&langs_count=8&theme=transparent">
      </td>
      <td>
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielSaliba&theme=transparent&hide_border=true" alt="Repos Per Language">
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielSaliba&theme=transparent&hide_border=true">
      </td>
    </tr>
  </table>
+ </div>
 </div>
 
 <br>
