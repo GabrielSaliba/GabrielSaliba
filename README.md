@@ -1,18 +1,44 @@
-# Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=35>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-My name is Gabriel Saliba, I'm a Software Developer 💻 from Brazil. 🇧🇷 <br>
-I am graduated at Information Systems since 2022. 🎓<br>
-My passion is development, problem solving, learn new things everyday and trying my best to keep thinking outside the box. 💡<br>
+<h1 align="center">Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=35> I'm Gabriel</h1>
 
-**"Don't compare yourself with anyone in this world...**<br>
-**If you do so, you're insulting yourself."**<br>
-~ Bill Gates
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8EB7EE&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Cloud+Engineer;Tech+Enthusiast;" alt="Typing SVG" />
+</p>
 
-- ✏️ Graduated at PUC Minas.
--  🎂 24 years old.
--  📍 From Betim/MG.
-- 🧪 Always open to new challenges and opportunities.
-- 🚀 Working hard everyday.
+<div>
+
+<img align="right" height="500px" width="20%" src="https://i.imgur.com/k0SslEs.gif"/>
+
+💻 I'm a Fullstack Developer with a bachelor's degree in Information Systems <br>
+🌱 Passionate about technology and software development, problem solving, <br> learning new things every day and trying my best to keep thinking outside the box. 💡<br>
+
+<br>
+<samp>
+"Did she ever tell you what her favorite spell was? <br>
+ One that create a field of flowers <br>
+ It was useless at best and foolish at worst <br>
+ She loved magic at the whole of her being <br>
+ She genuinely wanted everyone in the world to experience it" 
+</samp>
+
+</div>
+
+<br>
+<br>
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaliba&hide=html&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielSaliba&theme=tokyonight&hide_border=true" alt="Repos Per Language">
+    </td>
+  </tr>
+</table>
+</div>
 
 ## 
 ![Snake animation](https://github.com/gabrielsaliba/gabrielsaliba/blob/output/github-contribution-grid-snake.svg)
