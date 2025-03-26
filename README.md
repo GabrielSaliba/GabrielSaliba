@@ -8,7 +8,7 @@
 
 <div>
 
-<img align="right" height="500px" width="20%" src="https://i.imgur.com/k0SslEs.gif"/>
+<img align="right" height="500px" width="15%" src="https://i.imgur.com/k0SslEs.gif"/>
 
 💻 I'm a Fullstack Developer with a bachelor's degree in Information Systems <br>
 🌱 Passionate about technology and software development, problem solving, <br> learning new things every day and trying my best to keep thinking outside the box. 💡<br>
