@@ -38,9 +38,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,next,nest,nodejs,py,java,spring,cs,unity,dotnet,docker,aws,github,git,mysql,mongodb,postgres,vscode,idea,pycharm,discord,windows,linux,bash,obsidian&perline=14)](https://skillicons.dev)
 
  
-## *Reach me out*
-
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-saliba-a80a5514a/)](https://www.linkedin.com/in/gabriel-saliba-a80a5514a/) [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabrielSaliba)](https://github.com/GabrielSaliba) [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabriels.exe/)](https://www.instagram.com/gabriels.exe/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.saliba.179@gmail.com)](mailto:gabriel.saliba.179@gmail.com) ![](https://komarev.com/ghpvc/?username=GabrielSaliba&color=brightgreen)
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E91E5&height=110&section=footer" width="100%">
